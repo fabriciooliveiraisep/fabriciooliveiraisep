@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm @fabriciooliveiraisep 👋
 
 - 🔭 **I’m currently working on:** Developing algorithms in Java and creating the brand identity for a restaurant project.
 - 🌱 **I’m currently learning:** Low-level programming, Linux CLI, and Agile methodologies at ISEP.
