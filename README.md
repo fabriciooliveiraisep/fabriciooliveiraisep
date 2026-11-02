@@ -5,5 +5,4 @@
 - 👯 **I’m looking to collaborate on:** Open-source backend projects or creative UI/UX challenges.
 - 💬 **Ask me about:** Clean code, system architecture, graphic design, or football simulation games.
 - 📫 **How to reach me:** In the class!
-- 😄 **Pronouns:** He/Him (Ele/Dele)
 - ⚡ **Fun fact:** I am a massive Palmeiras fan! 🐷💚
